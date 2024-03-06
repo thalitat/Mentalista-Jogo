@@ -7,5 +7,7 @@ O Mentalista é um jogo simples, mas desafiador, desenvolvido utilizando tecnolo
 Participar deste projeto foi uma experiência enriquecedora, pois me permitiu interagir com uma comunidade diversificada de desenvolvedores e aprender com suas experiências e perspectivas únicas.
 
 Confira o código no CodePen (https://codepen.io/thalitasoliveira/pen/NWmGzJw)
+
 Video apresentação (https://vimeo.com/920248618/ee9d0b16ec?share=copy)
 
+Feito 2022
