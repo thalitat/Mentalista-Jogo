@@ -1,6 +1,6 @@
 # Mentalista-Jogo
 
-Este é um projeto Fork (3) do Empower Code Zenvia Alura, uma iniciativa voltada para o empoderamento feminino no campo da tecnologia. Durante minha participação na terceira edição, tive a oportunidade de colaborar neste divertido jogo chamado Mentalista.
+Este é um projeto Fork do Empower Code Zenvia Alura, uma iniciativa voltada para o empoderamento feminino no campo da tecnologia. Durante minha participação na terceira edição, tive a oportunidade de colaborar neste divertido jogo chamado Mentalista.
 
 O Mentalista é um jogo simples, mas desafiador, desenvolvido utilizando tecnologias como HTML, CSS e JavaScript. Durante o processo de fork, pude aprimorar minhas habilidades nessas linguagens e aprender novas técnicas de desenvolvimento frontend.
 
